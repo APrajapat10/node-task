@@ -1,5 +1,5 @@
 const jwtConfig={
-    expiresIn:'300s',
+    expiresIn:'10d',
     secretKey:'secretKey'
 }
 
