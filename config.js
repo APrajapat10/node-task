@@ -1,6 +1,6 @@
-const jwtConfig={
-    expiresIn:'10d',
-    secretKey:'secretKey'
-}
+const jwtConfig = {
+  expiresIn: '10d',
+  secretKey: 'secretKey',
+};
 
-module.exports=jwtConfig;
+module.exports = jwtConfig;
